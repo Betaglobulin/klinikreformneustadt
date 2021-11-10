@@ -2,7 +2,7 @@
 ## Roenius-Gruppe
 
 ## Statistik
-
+![Finanzen der Kliniken](Finanzen.png)
 ## Überversorgung
 
 
