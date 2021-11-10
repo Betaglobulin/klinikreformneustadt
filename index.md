@@ -1,7 +1,32 @@
 # Strukturreform der Kliniken Neustadt
 ## Roenius-Gruppe
 
-{:toc}
+- [Strukturreform der Kliniken Neustadt](#strukturreform-der-kliniken-neustadt)
+  * [Roenius-Gruppe](#roenius-gruppe)
+  * [Statistik](#statistik)
+    + [Finanzen](#finanzen)
+    + [Bettenanzahl](#bettenanzahl)
+    + [Auslastung](#auslastung)
+    + [Auslastungsverteilung](#auslastungsverteilung)
+  * [Überversorgung](#-berversorgung)
+  * [Wir bieten:](#wir-bieten-)
+- [Im einzelnen](#im-einzelnen)
+  * [St. Pecunia](#st-pecunia)
+    + [Tumorzentrum](#tumorzentrum)
+    + [Restrukturierung der Abteilung für Innere Medizin 2:](#restrukturierung-der-abteilung-f-r-innere-medizin-2-)
+    + [Neurologie](#neurologie)
+    + [Chirurgie](#chirurgie)
+    + [Weiteres](#weiteres)
+  * [Monetarius](#monetarius)
+    + [Strukturveränderungen](#strukturver-nderungen)
+  * [Ordinarius-Spital](#ordinarius-spital)
+    + [Aufbau einer Fachklinik für Geriatrie und Psychiatrie](#aufbau-einer-fachklinik-f-r-geriatrie-und-psychiatrie)
+    + [Schärfung des neuen gerontologisch-psychiatrischen Klinikprofils](#sch-rfung-des-neuen-gerontologisch-psychiatrischen-klinikprofils)
+  * [Zusammenfassend](#zusammenfassend)
+    + [St.Pecunia](#stpecunia)
+    + [Monetarius](#monetarius-1)
+    + [Ordinarius](#ordinarius)
+
 
 ## Statistik
 
