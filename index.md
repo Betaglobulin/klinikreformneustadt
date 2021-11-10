@@ -2,7 +2,15 @@
 ## Roenius-Gruppe
 
 ## Statistik
+
+### Finanzen
 ![Finanzen der Kliniken](Finanzen.png)
+### Bettenanzahl
+![Bettenanzahl in den Kliniken](Betten.png)
+### Auslastung
+![Auslastung](Auslastung.png)
+### Auslastungsverteilung
+![Auslastungsverteilung](Auslastungsverteilung.png)
 ## Überversorgung
 
 
