@@ -1,6 +1,8 @@
 # Strukturreform der Kliniken Neustadt
 ## Roenius-Gruppe
 
+{:toc}
+
 ## Statistik
 
 ### Finanzen
