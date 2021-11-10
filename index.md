@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Strukturreform der Kliniken Neustadt
+## Roenius-Gruppe
 
-You can use the [editor on GitHub](https://github.com/Betaglobulin/klinikreformneustadt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Statistik
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Überversorgung
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1400 Betten aktuell:
+Ø 66% Auslastung
+_440 Betten mehr als derzeit notwendig_
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Wir bieten:
+- Gesundheitsdienstleistungen aus einer Hand
+- Prozessoptimierungen
+- Ausrichtung auf effiziente Versorgung
+- Entlastung des städtischen Haushalts
+- sozialverträglichen Umbau
+- Ausbau des Gesundheitssektors in der Region
+- Akkreditierung als Lehrkrankenhäuser
 
-- Bulleted
-- List
+# Im einzelnen
 
-1. Numbered
-2. List
+## St. Pecunia
 
-**Bold** and _Italic_ and `Code` text
+- Eröffnung eines multidisziplinären überregionalen ambulanten und stationären Tumorzentrum in dem generalüberholten Gebäude 
+  - Schwerpunkt auf dem Brustkrebs mit breitem Therapiespektrum
+  - Ausbau der Abteilung für Strahlentherapie
+  - Zusammenarbeit mit dem Abteilung für Pathologie am Klinikum Monetarius
+- Weiterführung des Fokus der Abteilung für Innere Medizin 1 auf die überregionale Intermediate-Care-Station
+- Restrukturierung der Abteilung für Innere Medizin 2:
+  - Anbindung an das neu eröffnete Tumorzentrum
+  - Erschaffen der weiteren Betten für die Chemotherapie
+  - Weiterführung der Zusammenarbeit mit Hämatologie in der nächsten Uniklinik
+  - Verlagerung des Schwerpunktes Dialyse auf das Klinikum Monetarius
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Betaglobulin/klinikreformneustadt/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
