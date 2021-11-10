@@ -16,7 +16,7 @@
 
 - 1400 Betten aktuell:
 - Ø 66% Auslastung
--_440 Betten mehr als derzeit notwendig_
+- _440 Betten mehr als derzeit notwendig_
 
 
 ## Wir bieten:
